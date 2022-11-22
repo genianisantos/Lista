@@ -13,7 +13,7 @@ LISTA
   <i><h2><p>SEGUNDA PARTE:</p></h2></i>
   <img src="https://cdn.awsli.com.br/1000x1000/214/214875/produto/12177487/7bc65f2baa.jpg" weight=190 height=190>
  <ol reserverd="reserverd">
-  <h3><li>Estante de livro 2 nichos compridos na horizontal. (Cor branca) →R$360,78</h3></li>
+  <h3><li>Estante de livros 2 nichos compridos na horizontal. (Cor branca) →R$360,78</h3></li>
   <h3><li>Escrivaninha 1 porta e 1 gaveta. (Cor branca)→R$256,89</h3></li>
   <h3><li>Luminária formato de lua 6 cores.→R$45,60</h3></li>
   <h3><li>Dois vasos de planta decorativa. (5cm)→R$23,00</h3></li>
